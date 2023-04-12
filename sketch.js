@@ -44,7 +44,7 @@ function draw() {
     
     // Définir les propriétés de style pour le texte
     textAlign(CENTER);
-    textSize(20);
+    textSize(40);
     fill(240, 243, 244 );
     
     // Forcer le texte à s'ajuster automatiquement dans la zone définie
